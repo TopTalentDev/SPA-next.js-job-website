@@ -14,7 +14,7 @@ Pages:
  - Jobs   
    - Jobs List Page [SSR]
    - Create\Edit Job Page [Static / SSR ]
-   - Job Page [Static + Regeneration + Fallback]
+   - Job Page [Static + Static Paths + Regeneration + Fallback] (How to deal with authorization)
  - User [SRR] 
    - Profile Widget 
    - Profile Page, Edit Profile [Static?]
